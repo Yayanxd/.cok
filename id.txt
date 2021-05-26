@@ -1,2 +1,0 @@
-      API KEY        |     NAMA       | Kadaluarsa
-99eea34f18fe448e8557 | Yayan          | 30-042021
